@@ -1,567 +1,462 @@
-#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
-#EXTINF:0 group-title="Telegram",Наш Telegram канал
-https://t.me/playlist_iptv
-#EXTINF:-1 group-title="Кино",Победа
-https://pkvc-hls.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b1128000_slru.m3u8
-#EXTINF:-1 group-title="Кино",Победа HD
-https://pkvc-hls.cdnvideo.ru/Pobeda/smil:Pobeda.smil/chunklist_b2628000_slru.m3u8
 #EXTINF:-1 group-title="Кино",НСТ
-http://178.217.72.66/225.201.2.200/index.m3u8
-#EXTINF:-1 group-title="Музыкальные",1 Music Channel
-https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+http://178.217.72.66/225.201.2.200/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Украина",1+1
-http://188.35.9.11:2001
+http://188.35.9.11:2001|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Украина",112 Украина
-http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8
+http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_hi/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Украина",112 Украина HD
-http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_mid/index.m3u8
+http://112hd-hls3.cosmonova.net.ua/hls/112hd_ua_mid/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Региональные",12 Канал (Омск)
-http://12channel.bonus-tv.ru:80/stream549837052987/tracks-v1a1/mono.m3u8
+http://12channel.bonus-tv.ru:80/stream549837052987/tracks-v1a1/mono.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Музыкальные",1HD
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Музыкальные",1Music Channel Hungary
-http://1music.hu/1music.m3u8
+http://1music.hu/1music.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Украина",24 канал
-http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8?codec=mpeg4
+http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8?codec=mpeg4|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Развлекательные",2x2
-http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_2X2.m3u8
-#EXTINF:-1 group-title="Казахстан",31 канал
-https://sc.id-tv.kz/31Kanal_38_39.m3u8
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_2X2.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Украина",4 канал
-http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8
+http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Украина",4 канал Украина
-http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8?codec=mpeg4
+http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8?codec=mpeg4|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Региональные",49 канал
-http://rt-sib-nsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8
-#EXTINF:-1 group-title="Казахстан",7 канал (KZ)
-https://sc.id-tv.kz/7_kanal_38_39.m3u8
+http://rt-sib-nsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_NSK_49CHANNEL/variant.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Беларусь",8 канал (Беларусь)
-http://91.215.176.238:8000/8channel
+http://91.215.176.238:8000/8channel|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Беларусь",8 канал (Витебск)
-http://95.46.208.8:24433/art
-#EXTINF:-1 group-title="Кино",A2
-https://sc.id-tv.kz/A2_38_39.m3u8
+http://95.46.208.8:24433/art|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Музыкальные",9 волна
-http://cdn-01.bonus-tv.ru:8080/9volna/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Казахстан",Almaty TV
-https://sc.id-tv.kz/Almaty_38_39.m3u8
+http://cdn-01.bonus-tv.ru:8080/9volna/tracks-v1a1/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Казахстан",Almaty TV (KZ)
-http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные",Animal Planet HD
-https://rt-cache1.peers.tv/streaming/animal_planet_hd/16/copy/playlist.m3u8
+http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Спорт",Arryadia Спорт
-http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Спорт",Arryadia Спорт HD
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1 group-title="Казахстан",Astana TV
-https://sc.id-tv.kz/Astana_38_39.m3u8
-#EXTINF:-1 group-title="Казахстан",Atameken Business TV
-https://sc.id-tv.kz/Atameken_38_39.m3u8
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Казахстан",Atameken Business TV (KZ)
-http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8
+http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Украина",ATR
-http://stream.atr.ua/atr/live/index.m3u8
+http://stream.atr.ua/atr/live/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Региональные",ATV 2
-http://85.132.81.184:8080/atv-2/index.m3u8
+http://85.132.81.184:8080/atv-2/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Региональные",ATV 4
-http://85.132.81.184:8080/atv-4/index.m3u8
+http://85.132.81.184:8080/atv-4/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Региональные",BBC Cbeebies
-http://51.52.156.22:8888/http/003
+http://51.52.156.22:8888/http/003|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Спорт",CCTV 5 Спорт HD
-http://111.40.205.107/PLTV/88888888/224/3221225711/index.m3u8
-#EXTINF:-1 group-title="Кино",Cinema
-https://tinyurl.com/sssc2tf/ipark/16/tvrec/playlist.m3u8
+http://111.40.205.107/PLTV/88888888/224/3221225711/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Другое",Combat Go
-http://bcoveliveios-i.akamaihd.net/hls/live/632424/5725327446001_02/playlist.m3u8
+http://bcoveliveios-i.akamaihd.net/hls/live/632424/5725327446001_02/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Музыкальные",DANCE music
-http://v2.catcast.me/content/37311/index.m3u8
+http://v2.catcast.me/content/37311/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Детские",Disney
-http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DISNEY.m3u8
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DISNEY.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Детские",Duck TV
-http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
+http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Региональные",DW TV English
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Спорт",E Спорт 3 (t.me/playlist_iptv)
-http://directes-tv-int.ccma.cat/int/ngrp:es3_web/chunklist_b1296000.m3u8
+http://directes-tv-int.ccma.cat/int/ngrp:es3_web/chunklist_b1296000.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Другое",Enki-Benki
-http://94.43.239.178:8080/CHANNEL678/BITRATE0/playlist.m3u8
+http://94.43.239.178:8080/CHANNEL678/BITRATE0/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Музыкальные",entermusictv
-http://v2.catcast.me/content/36007/index.m3u8
+http://v2.catcast.me/content/36007/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Другое",ESPN 2
-http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
+http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Музыкальные",Eurodance Hits 90
-http://v2.catcast.me/content/36987/index.m3u8
+http://v2.catcast.me/content/36987/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Кино",EVGEN Serial
-http://v2.catcast.me/content/36168/index.m3u8
+http://v2.catcast.me/content/36168/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Кино",Evgen СССР
-http://v2.catcast.me/content/36506/index.m3u8
+http://v2.catcast.me/content/36506/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Региональные",France 24 (ENG)
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Познавательные",HD Media
-http://serv25.vintera.tv:8081/hdmedia/hdmedia_pay/playlist.m3u8
+http://serv25.vintera.tv:8081/hdmedia/hdmedia_pay/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Кино",Hollywood
-http://tinyurl.com/qorl7s9/90222/index.m3u8
+http://tinyurl.com/qorl7s9/90222/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Другое",Holvoet TV HD (Chille)
-http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Другое",Hromadske TV (HD)
-http://api.tv.ipnet.ua/api/v1/manifest/139947023.m3u8?codec=mpeg4
+http://api.tv.ipnet.ua/api/v1/manifest/139947023.m3u8?codec=mpeg4|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Другое",HTV KG (t.me/playlist_iptv)
-http://212.2.228.202:1935/live/htv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Казахстан",ID Fashion (KZ)
-https://sc.id-tv.kz/IDFashion_38_39.m3u8
+http://212.2.228.202:1935/live/htv.stream/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Украина",ID Fashion TV
-http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Украина",ID Fashion TV HD
-http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_mid/index.m3u8
-#EXTINF:-1 group-title="Кино",KINO 24
-https://tinyurl.com/sssc2tf/kino24/126/copy/playlist.m3u8
-#EXTINF:-1 group-title="Музыкальные",Kronehit HD
-https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+http://idfashion-hls1.cosmonova.net.ua/hls/idfashion_ua_mid/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Кино",KVN-HD
-http://hls.goodgame.ru:8080/hls/172148.m3u8
+http://hls.goodgame.ru:8080/hls/172148.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Детские",Lale
-http://stream.atr.ua/lale//live/index.m3u8
+http://stream.atr.ua/lale//live/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Другое",Leomax 24 (t.me/playlist_iptv)
-http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8
+http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Другое",Luxury HD
-http://nano.teleservice.su:8080/hls/luxury.m3u8
+http://nano.teleservice.su:8080/hls/luxury.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Другое",M2O TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Музыкальные",Metal TV
-http://v1.catcast.me/content/33816/index.m3u8
+http://v1.catcast.me/content/33816/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Другое",MostVideo TV HD
-http://w4.mostvideo.tv/tv/ch1.m3u8
+http://w4.mostvideo.tv/tv/ch1.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Музыкальные",MTV HD
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Музыкальные",Music Box UA
-http://212.26.132.86/hls/mb_ua_2500.m3u8
+http://212.26.132.86/hls/mb_ua_2500.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Познавательные",Nano TV (t.me/playlist_iptv)
-http://nano.teleservice.su:8080/hls/nano.m3u8
+http://nano.teleservice.su:8080/hls/nano.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Познавательные",Ocean TV
-http://91.192.168.242:9091
+http://91.192.168.242:9091|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Спорт",Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
+http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Спорт",Olympic Channel HD
-http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Украина",OTV Music
-http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8?codec=mpeg4
+http://api.tv.ipnet.ua/api/v1/manifest/1293297500.m3u8?codec=mpeg4|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Спорт",Real Madrid
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Спорт",Real Madrid HD
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="Другое",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Музыкальные",Retro Music Tv
-http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
-#EXTINF:-1 group-title="Другое",Rik
-https://nn.geo.joj.sk/live/rik-index.m3u8
-#EXTINF:-1 group-title="Музыкальные",RU TV
-https://rutv.gcdn.co/streams/1410_1272/480n/index.m3u8
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Музыкальные",RU TV HD
-http://rutv.gcdn.co/streams/1410_95/playlist.m3u8
+http://rutv.gcdn.co/streams/1410_95/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Мужское",Russian Extreme HD
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Мужское",Russian Music Box
-http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
-#EXTINF:-1 group-title="Кино",Sever TV
-https://hls.goodgame.ru/hls/146065.m3u8
-#EXTINF:-1 group-title="Спорт",Sharjah Sport
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8
+http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Спорт",SKY Спорт News HD
-http://178.196.237.240:3000/play/ccSkyNEwscc
+http://178.196.237.240:3000/play/ccSkyNEwscc|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Музыкальные",SONG TV Russia
-http://songtvru.ru:8060/hd/playlist.m3u8
+http://songtvru.ru:8060/hd/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Другое",TELE ARENA
-http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
+http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Другое",TELE MONTE NEVE
-http://wms.shared.streamshow.it/telemonteneve/mp4:telemonteneve/playlist.m3u8
+http://wms.shared.streamshow.it/telemonteneve/mp4:telemonteneve/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Другое",TELE MONTE NEVE 3
-http://wms.shared.streamshow.it/telemonteneve3/mp4:telemonteneve3/playlist.m3u8
-#EXTINF:-1 group-title="Другое",TELE TICINO
-https://teleticino720ptest.vedge.infomaniak.com/livecast/smil:teleticino720ptest.smil/chunklist_w1446010045_b3001080.m3u8
-#EXTINF:-1 group-title="Другое",TJK TV
-https://tjktv.ercdn.net/tjktv_720p.m3u8
+http://wms.shared.streamshow.it/telemonteneve3/mp4:telemonteneve3/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Познавательные",Travel Guid-TV
-http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
+http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Познавательные",Travel HD BG
-http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Спорт",Turkmen Спорт
-http://217.174.225.146/legacyhls/ch004_400/index.m3u8
+http://217.174.225.146/legacyhls/ch004_400/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Другое",TV TRWAM
-http://trwamtv.live.e96-jw.insyscd.net/trwamtv.smil/chunklist.m3u8
+http://trwamtv.live.e96-jw.insyscd.net/trwamtv.smil/chunklist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Другое",TV1 KG
-http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Региональные",TV8 HD Moldova
-http://live.cdn.tv8.md/TV7/video1.m3u8?token=1
+http://live.cdn.tv8.md/TV7/video1.m3u8?token=1|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Другое",TVM Channel
-http://cdn-01.bonus-tv.ru:8080/tvm_edge/tracks-v1a1/index.m3u8
+http://cdn-01.bonus-tv.ru:8080/tvm_edge/tracks-v1a1/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Украина",UA TV
-http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_low/index.m3u8
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_low/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Украина",UA TV HD
-http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Украина",UA Крым
-http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8?codec=mpeg4
+http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8?codec=mpeg4|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Украина",UA Культура
-http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8?codec=mpeg4
+http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8?codec=mpeg4|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Украина",UA Одесса
-http://api.tv.ipnet.ua/api/v1/manifest/2118742468.m3u8?codec=mpeg4
+http://api.tv.ipnet.ua/api/v1/manifest/2118742468.m3u8?codec=mpeg4|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Украина",UA Перший
-http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8?codec=mpeg4
+http://api.tv.ipnet.ua/api/v1/manifest/871803891.m3u8?codec=mpeg4|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Кино",Ultra HD Cinema
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-147600
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8?version=2&offset=-147600|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Общие",Univer TV
-http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
+http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Другое",Univer TV HD
-http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Спорт",Viasat Sport HD
-http://78.157.230.19/streaming/viasat_sport_hd/364/copy/playlist.m3u8
+http://78.157.230.19/streaming/viasat_sport_hd/364/copy/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Кино",ViP Comedy HD
-http://streamer.sktv.peers.tv/streaming/tv_1000_comedy_hd/364/copy/playlist.m3u8
+http://streamer.sktv.peers.tv/streaming/tv_1000_comedy_hd/364/copy/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Кино",ViP Megahit
-http://streamer.sktv.peers.tv/streaming/tv_1000_megahit_hd/364/copy/playlist.m3u8
+http://streamer.sktv.peers.tv/streaming/tv_1000_megahit_hd/364/copy/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Кино",ViP Premiere
-http://streamer.sktv.peers.tv/streaming/tv1000_premium_hd/364/copy/playlist.m3u8
+http://streamer.sktv.peers.tv/streaming/tv1000_premium_hd/364/copy/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Другое",WFC TV
-http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v3a1/index.m3u8
+http://wfc.bonus-tv.ru:80/cdn/wfcrus/tracks-v3a1/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Другое",WFC TV International
-http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v1a1/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Другое",WFC TV International HD
-http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
+http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Другое",WOW!TV HD
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Кино",Zigfreed TV
-http://v2.catcast.me/content/37713/index.m3u8
+http://v2.catcast.me/content/37713/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Украина",А1 (Одесса)
-http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-480p/playlist.m3u8
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-480p/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Украина",А1 (Одесса) [HD]
-http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-720p/playlist.m3u8
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-720p/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Другое",Арис 24
-http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Кино",Арсенал HD
-http://217.25.216.4:8085/udp/238.2.17.131:1234
+http://217.25.216.4:8085/udp/238.2.17.131:1234|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Региональные",Архыз 24 HD
-http://live.mediacdn.ru/sr1/arhis24/chunklist_b2396000.m3u8
+http://live.mediacdn.ru/sr1/arhis24/chunklist_b2396000.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Региональные",Астрахань 24 HD
-http://cdn-01.bonus-tv.ru:8080/astrakhan24_edge/tracks-v1a1/index.m3u8
+http://cdn-01.bonus-tv.ru:8080/astrakhan24_edge/tracks-v1a1/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Региональные",Афонтово (Красноярск)
-http://xstream.afontovo.ru/afontovo_ya.m3u8
-#EXTINF:-1 group-title="Беларусь",Беларусь 24
-https://stream.hoster.by/belarus24hd/livehd/playlist.m3u8
+http://xstream.afontovo.ru/afontovo_ya.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Беларусь",Беларусь 4
-http://95.46.208.8:26258/belarus4
+http://95.46.208.8:26258/belarus4|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Беларусь",Беларусь 4 (Витебск)
-http://95.46.208.8:26258/belarus4
+http://95.46.208.8:26258/belarus4|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Беларусь",БелРос
-http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Кино",БОЕВИК TV
-http://v2.catcast.me/content/37493/index.m3u8
+http://v2.catcast.me/content/37493/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Региональные",БСТ
-http://bsttv.bonus-tv.ru:80/cdn/bst/tracks-v1a1/index.m3u8
+http://bsttv.bonus-tv.ru:80/cdn/bst/tracks-v1a1/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Другое",Варяг ТВ
-http://87.252.229.252:8081/varag
+http://87.252.229.252:8081/varag|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Другое",Ветта 24
-http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Беларусь",ВТВ
-http://134.17.212.5:3390/udp/225.100.100.100:2347
+http://134.17.212.5:3390/udp/225.100.100.100:2347|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Региональные",Грозный ТВ
-http://live2.mediacdn.ru/sr1/grozny/chunklist_b1498000.m3u8
+http://live2.mediacdn.ru/sr1/grozny/chunklist_b1498000.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Региональные",Дагестан ТВ
-http://dagestan.mediacdn.ru/cdn/dagestan/tracks-v2a1/index.m3u8
+http://dagestan.mediacdn.ru/cdn/dagestan/tracks-v2a1/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Другое",Дисконт
-http://tvshops.bonus-tv.ru:80/cdn/discount/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Региональные",ДОЖДЬ
-https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklist_DVR.m3u8
-#EXTINF:-1 group-title="Кино",Дом Кино Премиум
-https://rt-cache1.peers.tv/streaming/dom_kino_premium/16/variable.m3u8
+http://tvshops.bonus-tv.ru:80/cdn/discount/tracks-v1a1/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Общие",Домашний
-http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DOMASHNIY.m3u8
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_DOMASHNIY.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Информационные",Евроновости
-http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Украина",Еко TV
-http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8?codec=mpeg4
+http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8?codec=mpeg4|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Украина",Еко ТВ
-http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8
-#EXTINF:-1 group-title="Казахстан",Ел Арна
-https://sc.id-tv.kz/ElArna_38_39.m3u8
+http://api.tv.ipnet.ua/api/v1/manifest/1311963170.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Украина",Еспресо
-http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
+http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Украина",Еспресо TV
-http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8?codec=mpeg4
+http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8?codec=mpeg4|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Музыкальные",Жара
-http://tinyurl.com/qorl7s9/90256/index.m3u8
+http://tinyurl.com/qorl7s9/90256/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Общие",Звезда
-http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ZVEZDA.m3u8
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ZVEZDA.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Информационные",Известия
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Информационные",Известия ТВ HD
-http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1 group-title="Кино",Индийское кино
-https://tinyurl.com/sssc2tf/indiatv/16/tvrec/playlist.m3u8
-#EXTINF:-1 group-title="Украина",Интер
-https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
-#EXTINF:-1 group-title="Познавательные",История
-https://rt-cache1.peers.tv/streaming/istoriya/16/tvrec/playlist.m3u8
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Украина",К1
-http://109.68.40.67/life/k1_3/index.m3u8
+http://109.68.40.67/life/k1_3/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Региональные",Кавказ 24
-http://serv30.vintera.tv:8081/kavkaz24/kavkaz24_stream/playlist.m3u8
+http://serv30.vintera.tv:8081/kavkaz24/kavkaz24_stream/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Детские",Карусель
-http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_KARUSEL.m3u8
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_KARUSEL.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Украина",Киев ТВ
-http://hls-kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.m3u8
+http://hls-kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Украина",Київ
-http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
+http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Кино",КиноЗаказ 1
-http://hls.goodgame.ru/hls/12949.m3u8
-#EXTINF:-1 group-title="Кино",Кинокомедия
-https://tinyurl.com/sssc2tf/comedytv/16/tvrecw/playlist.m3u8
-#EXTINF:-1 group-title="Кино",Киномикс
-https://tinyurl.com/sssc2tf/ntv_kino_plyus/16/tvrec/playlist.m3u8
-#EXTINF:-1 group-title="Кино",Кинопоказ
-https://tinyurl.com/sssc2tf/kinopokaz/16/copy/playlist.m3u8
-#EXTINF:-1 group-title="Кино",Кинопремьера HD
-https://tinyurl.com/sssc2tf/premera/16/copy/playlist.m3u8
-#EXTINF:-1 group-title="Кино",Киносвидание
-https://tinyurl.com/sssc2tf/kinoklub/16/variable.m3u8
-#EXTINF:-1 group-title="Кино",Киносемья
-https://tinyurl.com/sssc2tf/hd_kino/16/copy/playlist.m3u8
-#EXTINF:-1 group-title="Кино",Кинохит
-https://tinyurl.com/sssc2tf/kinohit/16/variable.m3u8
+http://hls.goodgame.ru/hls/12949.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Кино",Комедийное HD
-http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
-#EXTINF:-1 group-title="Информационные",Красная линия
-https://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
+http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Информационные",Красная линия ТВ
-http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8
+http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Другое",Крик ТВ
-http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8
+http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Украина",КРТ
-http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8?codec=mpeg4
-#EXTINF:-1 group-title="Казахстан",КТК
-https://sc.id-tv.kz/KTK_38_39.m3u8
+http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8?codec=mpeg4|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Кино",КТК HD
-http://s3.catcast.me/live/what.flv
+http://s3.catcast.me/live/what.flv|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Спорт",КТРК Спорт (KG)
-http://onlinetv.ktrk.kg:1935/live/myStream4/playlist.m3u8
-#EXTINF:-1 group-title="Региональные",Кубань 24 Орбита
-https://stream.kuban24.tv:1500/hls/stream.m3u8
+http://onlinetv.ktrk.kg:1935/live/myStream4/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Региональные",Курай ТВ
-http://bsttv.bonus-tv.ru:80/cdn/kurai/tracks-v1a1/index.m3u8
+http://bsttv.bonus-tv.ru:80/cdn/kurai/tracks-v1a1/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Региональные",Липецкое Время
-http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
+http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Кино",Любимое индийское кино
-http://v2.catcast.me/content/37353/index.m3u8
+http://v2.catcast.me/content/37353/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Украина",М1
-http://live.m2.tv/hls/stream.m3u8
+http://live.m2.tv/hls/stream.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Украина",М2
-http://live.m2.tv/hls3/stream.m3u8
+http://live.m2.tv/hls3/stream.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Украина",Макси ТВ
-http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
+http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Украина",Макси/НАШ
-http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8?codec=mpeg4
+http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8?codec=mpeg4|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Детские",Малятко
-http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Детские",Малятко TV
-http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8?codec=mpeg4
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8?codec=mpeg4|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Детские",Малятко ТВ
-http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8?codec=mpeg4&app=playlist
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8?codec=mpeg4&app=playlist|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Кино",Марс-ТВ
-http://v2.catcast.me/content/37033/index.m3u8
+http://v2.catcast.me/content/37033/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Региональные",Матур ТВ HD
-http://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+http://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Спорт",Матч!
-http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MATCHTV.m3u8
-#EXTINF:-1 group-title="Спорт",Матч!
-https://bl.zxz.su/live/312119/HLS/2883584_1,1153024_2,4614144_3/1565112600/34ad6afdfc67768942b734cd76e5bf31/playlist.m3u8
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MATCHTV.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Спорт",Матч! Премьер
-http://188.191.36.106:8080/hls/nashfutbol.m3u8
+http://188.191.36.106:8080/hls/nashfutbol.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Кино",Мир
-http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MIR.m3u8
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MIR.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Кино",Мир
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/chunklist.m3u8
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/chunklist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Кино",Мир (HD)
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 group-title="Информационные",Мир 24
-https://sc.id-tv.kz/Mir24_38_39.m3u8
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Информационные",Мир 24 HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Информационные",МИР Premium
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Региональные",Мир Белогорья
-http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
+http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Региональные",Москва 24
-http://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="Кино",Мужское кино
-https://tinyurl.com/sssc2tf/interesnoe_tv/16/variable.m3u8
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:m24.smil/chunklist_b1600000.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Музыкальные",МУЗ ТВ
-http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MUZTV.m3u8
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_MUZTV.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Музыкальные",Музыка 1
-http://v2.catcast.me/content/37745/index.m3u8
+http://v2.catcast.me/content/37745/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Музыкальные",Музыка 2
-http://v2.catcast.me/content/37742/index.m3u8
+http://v2.catcast.me/content/37742/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Информационные",Наш Дом HD
-http://85.234.33.60/stream/c11.m3u8
+http://85.234.33.60/stream/c11.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Музыкальные",Наше TV
-http://hls-01-nashetv.magonet.ru/nashetv/live/index.m3u8
+http://hls-01-nashetv.magonet.ru/nashetv/live/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Беларусь",Наше ТВ Витебск [BY]
-http://95.46.208.8:26259/nashe
+http://95.46.208.8:26259/nashe|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Украина",НЛО TV
-http://193.46.210.28/stream/pehgmkf3673fmwa7tnhu2ufvyusm9skzuvqb8equi4v9zref7n37rypnw3hwesramgu7m4y88zscecjp4ytv4cfm3h9guiiuq38vh7qvjkb47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8
+http://193.46.210.28/stream/pehgmkf3673fmwa7tnhu2ufvyusm9skzuvqb8equi4v9zref7n37rypnw3hwesramgu7m4y88zscecjp4ytv4cfm3h9guiiuq38vh7qvjkb47agd66i43id58afhfdmxc9pqw2yr46zn2===.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Украина",Новини 24
-http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8
-#EXTINF:-1 group-title="Казахстан",Новое ТВ (KZ)
-https://sc.id-tv.kz/New_Television_38_39.m3u8
+http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Информационные",Новое Телевидение
-http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Общие",НТВ
-http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NTV.m3u8
-#EXTINF:-1 group-title="Украина",НТН
-https://edge3.iptv.macc.com.ua/img/ntn_3/index.m3u8
+http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NTV.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Беларусь",ОНТ.BY
-http://stream.ont.by:1935/ont/live576p/playlist.m3u8
+http://stream.ont.by:1935/ont/live576p/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Региональные",Оплот 2
-http://ott.inmart.tv:8081/17/index.m3u8
+http://ott.inmart.tv:8081/17/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Региональные",Оплот 24
-http://ott.inmart.tv:8081/54/index.m3u8
+http://ott.inmart.tv:8081/54/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Кино",Остросюжетное HD
-http://188.35.9.26:14050/udp/238.0.14.3:69000?codec=mpeg4
+http://188.35.9.26:14050/udp/238.0.14.3:69000?codec=mpeg4|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Общие",ОТР
-http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_OTR.m3u8
-#EXTINF:-1 group-title="Другое",Первый Балтийский Муз.
-https://streamer5.tvdom.tv/in/tvdom/tracks-v1a1/index.m3u8
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_OTR.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Украина",Первый Деловой
-http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Общие",Первый канал
-http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_1TV.m3u8
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_1TV.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Казахстан",Первый канал "Евразия"
-http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
+http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Музыкальные",Первый Музыкальный BY
-http://rtmp.one.by:1300
+http://rtmp.one.by:1300|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Музыкальные",Первый Музыкальный RU BY
-http://rtmp.one.by:2200
+http://rtmp.one.by:2200|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Музыкальные",Первый Музыкальный RU HD BY
-http://rtmp.one.by:2300
+http://rtmp.one.by:2300|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Украина",Правда ТУТ Киев
-http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Кино",Премиальное HD
-http://188.35.9.26:14050/udp/238.0.14.2:69000?codec=mpeg4
-#EXTINF:-1 group-title="Региональные",Продвижение
-https://strm.yandex.ru/kal/prodvizheniye/prodvizheniye0.m3u8
+http://188.35.9.26:14050/udp/238.0.14.2:69000?codec=mpeg4|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Региональные",Просвещение
-http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/tracks-v1a1/index.m3u8
+http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/tracks-v1a1/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Украина",Прямой
-http://prm-hls1.cosmonova.net.ua/hls/prm_ua_mid/index.m3u8
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_mid/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Украина",Прямой HD
-http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
+http://prm-hls1.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Развлекательные",Пятница!
-http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_FRIDAY.m3u8
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_FRIDAY.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Общие",Пятый канал
-http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_5TV.m3u8
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_5TV.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Украина",Рада ТВ
-http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8?codec=mpeg4
+http://api.tv.ipnet.ua/api/v1/manifest/1312714970.m3u8?codec=mpeg4|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Детские",Радость Моя
-http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/tracks-v1a1/index.m3u8
+http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/tracks-v1a1/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Информационные",РБК ТВ
-http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Информационные",РБК ТВ (Екатеринбург)
-http://live-ekbrbc.cdnvideo.ru/ekbrbc/ekbrbc/playlist.m3u8
+http://live-ekbrbc.cdnvideo.ru/ekbrbc/ekbrbc/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Информационные",РБК ТВ (Уфа)
-http://92.50.128.180/utv/1358/index.m3u8
+http://92.50.128.180/utv/1358/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Развлекательные",Рен ТВ
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Развлекательные",РЕН ТВ
-http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RENTV.m3u8
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RENTV.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Развлекательные",Рен ТВ HD
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
-#EXTINF:-1 group-title="Развлекательные",Рен ТВ International
-https://sc.id-tv.kz/RenTV_38_39.m3u8
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Общие",Россия 1
-http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIA1.m3u8
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIA1.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Общие",Россия 1 HD
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_hd/playlist_4.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Общие",Россия 24
-http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIA24.m3u8
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIA24.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Общие",Россия К
-http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIAK.m3u8
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIAK.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Музыкальные",Сити Эдем Play
-http://v2.catcast.me/content/34100/index.m3u8
+http://v2.catcast.me/content/34100/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Детские",СКАЗКИ ЗАЙКИ
-http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
+http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Детские",Смайлик ТВ HD
-http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
+http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Кино",Советское Кино
-http://strm.yandex.ru/kal/sovkino_supres/sovkino_supres0_169_480p.json/index-v1-a1.m3u8
+http://strm.yandex.ru/kal/sovkino_supres/sovkino_supres0_169_480p.json/index-v1-a1.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Кино",Советское Кино HD
-http://strm.yandex.ru/kal/sovkino_supres/sovkino_supres0_169_720p.json/index-v1-a1.m3u8
+http://strm.yandex.ru/kal/sovkino_supres/sovkino_supres0_169_720p.json/index-v1-a1.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Украина",Сонце
-http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
+http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Региональные",Сочи 24 HD
-http://serv30.vintera.tv:8081/sochi/maks24hd/playlist.m3u8
+http://serv30.vintera.tv:8081/sochi/maks24hd/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Региональные",Союз
-http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Спорт",Спорт 1 HD
-http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
+http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Спорт",Спорт MAX HD
-http://161.0.157.9/PLTV/88888888/224/3221226766/index.m3u8
+http://161.0.157.9/PLTV/88888888/224/3221226766/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Украина",СТБ
-http://188.35.9.11:11021/j
+http://188.35.9.11:11021/j|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Беларусь",СТВ (Беларусь)
-http://212.98.171.116/HLS/ctvby/playlist.m3u8
-#EXTINF:-1 group-title="Казахстан",СТВ Казахстан
-https://sc.id-tv.kz/STV_38_39.m3u8
+http://212.98.171.116/HLS/ctvby/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Региональные",СТРК HD
-http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Развлекательные",СТС
-http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STS.m3u8
-#EXTINF:-1 group-title="Развлекательные",СТС International
-https://sc.id-tv.kz/STS_38_39.m3u8
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STS.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Развлекательные",СТС Love
-http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STSLOVE.m3u8
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STSLOVE.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Развлекательные",СТС МИР
-http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STS_MIR_NSK.m3u8
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STS_MIR_NSK.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Развлекательные",СТС Прима
-http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
+http://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Развлекательные",СТС ПРИМА
-http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STS_PRIMA_KRSK.m3u8
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STS_PRIMA_KRSK.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Развлекательные",Супер
-http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SUPER.m3u8
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SUPER.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Региональные",Тамыр
-http://bsttv.bonus-tv.ru:80/cdn/tamyr/tracks-v1a1/index.m3u8
+http://bsttv.bonus-tv.ru:80/cdn/tamyr/tracks-v1a1/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Общие",ТВ Центр
-http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8
+http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Общие",ТВ3
-http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TV3.m3u8
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TV3.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Общие",ТВЦ
-http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TVC.m3u8
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_TVC.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Общие",ТВЦ
-http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8
-#EXTINF:-1 group-title="Казахстан",ТДК 42
-https://sc.id-tv.kz/TDK-42_38_39.m3u8
+http://tvc-hls.cdnvideo.ru/tvc-p222/smil:tvc_p11.smil/chunklist_b1703000.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Региональные",ТНВ Планета
-http://tnv.bonus-tv.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
+http://tnv.bonus-tv.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Развлекательные",ТНТ
-http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TNT.m3u8
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TNT.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Развлекательные",ТНТ +7
-http://176.114.16.54:80/tnt/index.m3u8
+http://176.114.16.54:80/tnt/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Развлекательные",ТНТ HD
-http://54.36.165.216:8080/TNT/mpegts
+http://54.36.165.216:8080/TNT/mpegts|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Развлекательные",ТНТ4
-http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TNT4.m3u8
+http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TNT4.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Региональные",Тюменское Время
-http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
+http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Кино",Фантастика
-http://v2.catcast.me/content/37388/index.m3u8
-#EXTINF:-1 group-title="Казахстан",Хабар 24
-https://sc.id-tv.kz/Khabar_24_38_39.m3u8
+http://v2.catcast.me/content/37388/index.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Казахстан",Хабар 24 (t.me/playlist_iptv)
-http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
-#EXTINF:-1 group-title="Казахстан",Халык Арна
-https://sc.id-tv.kz/HalykArna_38_39.m3u8
+http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Развлекательные",Че!
-http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_CHE.m3u8
+http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_CHE.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Музыкальные",Шансон ТВ
-http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Кино",Шокирующее HD
-http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
+http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451|User-Agent=OnlineTvAppDroid
 #EXTINF:-1 group-title="Развлекательные",Ю
-http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_U.m3u8
+http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_U.m3u8|User-Agent=OnlineTvAppDroid
