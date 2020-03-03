@@ -1,6 +1,3 @@
-#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="http://teleguide.info/download/new3/jtv.zip" tvg-shift=+4 cache=500
-#EXTINF:-1 tvg-logo="http://host.denms.ru/images/denmsiptv.jpg",-NSK 03.03 12:00 http://denms.ru
-http://host.denms.ru/images/iptv.mp4
 #EXTINF:-1 tvg-name="Первый_канал" tvg-shift=0 aspect-ratio=16:9 group-title="Эфирные",Первый канал
 http://176.51.65.153:1234/udp/225.54.205.129:5000?denms.ru
 #EXTINF:-1 tvg-name="Первый_канал" tvg-shift=0 aspect-ratio=16:9 group-title="Эфирные",Первый канал
@@ -77,8 +74,6 @@ http://176.51.65.153:1234/udp/233.7.70.30:5000?denms.ru
 http://176.51.65.153:1234/udp/233.7.70.31:5000?denms.ru
 #EXTINF:-1 tvg-name="Беларусь_24" group-title="Информационные",Беларусь 24
 http://109.171.12.89:81/udp/239.54.5.175:1224?denms.ru
-#EXTINF:-1 tvg-name="Дождь" group-title="Информационные",Дождь
-javascript:'http://087765474567.ru/dozhd.php'.httpGet({headers:{'Referer':'http://telego100.com/dozhd.html'}}).match(/file:"(.*?)"/)[1]
 #EXTINF:-1 tvg-name="Дождь" group-title="Информационные",Дождь
 http://79.133.102.10:999/udp/239.191.254.14:13343?denms.ru
 #EXTINF:-1 tvg-name="Дождь" group-title="Информационные",Дождь
